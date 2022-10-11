@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConvertCurr</string>
+    <string-array name="currency_name">
+        <item>Dollar</item>
+        <item>Shekel</item>
+    </string-array>
+</resources>
